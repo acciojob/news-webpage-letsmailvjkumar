@@ -1,1 +1,48 @@
 /*  your css code here. If applicable */
+body{
+	font-family: Arial, sans-serif;
+    background-color:#f5f5f5;
+
+}
+#heading{
+	background-color:#011e29;
+	color:#fff;
+	text-align:center;
+	margin:1px;
+}
+#part-1{
+  vertical-align:top;
+  background-color: white;
+  display:inline-block;
+  width:20%;
+  padding: 20px;
+  border-radius:20px;
+}
+#part-2{
+  vertical-align:top;
+  display:inline-block;
+  width:40%;
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  border-radius:20px;
+}
+#part-3{
+  vertical-align:top;
+  display:inline-block;
+  background-color: white;
+  width:20%;
+  padding: 20px;
+  text-align: center;
+  border-radius:20px;
+}
+.container{
+  position:relative;
+  text-align:center;
+  margin-top:10px;
+}
+ img{
+  margin-top:10px;
+  }
+	
+
