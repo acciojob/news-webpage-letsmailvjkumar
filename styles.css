@@ -11,15 +11,16 @@ header {
   padding: 10px;
   }
 
-#part-1{
+  .latest-news-section {
   vertical-align:top;
   background-color: white;
   display:inline-block;
   width:20%;
   padding: 20px;
   border-radius:20px;
-}
-#part-2{
+  }
+
+.hero-section{
   vertical-align:top;
   display:inline-block;
   width:40%;
@@ -28,7 +29,7 @@ header {
   text-align: center;
   border-radius:20px;
 }
-#part-3{
+.pictorial-news-section {
   vertical-align:top;
   display:inline-block;
   background-color: white;
@@ -36,14 +37,15 @@ header {
   padding: 20px;
   text-align: center;
   border-radius:20px;
-}
+  }
+
 .container{
   position:relative;
   text-align:center;
   margin-top:10px;
 }
- img{
+  .pictorial-news-section img{
   margin-top:10px;
-}
+  }
 	
 
